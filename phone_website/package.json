@@ -1,0 +1,15 @@
+{
+  "name": "phone_website",
+  "version": "1.0.0",
+  "description": "## Video (https://youtu.be/lEarRTKXpGg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4"
+  }
+}
